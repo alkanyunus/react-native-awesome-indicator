@@ -1,0 +1,17 @@
+{
+  "name": "react-native-awesome-indicator",
+  "version": "0.0.1",
+  "description": "An activity indicator(spinner, loader) for iOS & android native apps without react native render mechanism.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "loader",
+    "activityindicator",
+    "spinner"
+  ],
+  "author": "Yunus Alkan",
+  "license": "GNU GPLv3"
+}
